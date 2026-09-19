@@ -1,0 +1,4 @@
+* ![Entrada da Clínica](entrada-clinica.jpg)
+* ![Dra Sandra](sandra.png)
+* ![Francisco](francisco.png)
+* ![Luísa](luisa.png)
