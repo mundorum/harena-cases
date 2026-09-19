@@ -1,0 +1,3 @@
+[submodule "original"]
+	path = original
+	url = https://github.com/harena-incubator/harena-cases.git
