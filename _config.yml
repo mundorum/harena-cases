@@ -1,0 +1,8 @@
+title: Harena Cases
+description: Cases, narratives, and resources related to Mundorum.
+theme: minima
+
+header_pages: []
+
+exclude:
+  - original/
