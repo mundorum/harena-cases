@@ -2,3 +2,4 @@
 * ![Dra Sandra](sandra.png)
 * ![Francisco](francisco.png)
 * ![Luísa](luisa.png)
+* ![Dialog Box](dialog-box.svg)
