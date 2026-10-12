@@ -7,9 +7,5 @@
 * ![Francisco](Francisco.png)
 * ![Luísa](Luísa.png)
 * ![Francisco e Luísa](Francisco_e_Luísa.png)
-
-* ![Entrada da Clínica](entrada-clinica.jpg)
-* ![Dra Sandra](sandra.png)
-* ![Francisco](francisco.png)
-* ![Luísa](luisa.png)
-* ![Dialog Box](dialog-box.svg)
+* ![Caixa de diálogo](Caixa_de_Diálogo.png)
+* ![Botão de próximo](Botão_de_Próximo.png)
