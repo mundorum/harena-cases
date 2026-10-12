@@ -1,3 +1,13 @@
+* ![Consultório](Consultório.png)
+* ![Mesa do consultório](Mesa_Consultório.png)
+* ![Recepção](Recepção.png)
+* ![Enfermeira Olívia S1](Enfermeira_Olívia_S1.png)
+* ![Enfermeira Olívia S2](Enfermeira_Olívia_S2.png)
+* ![Enfermeira Olívia S3](Enfermeira_Olívia_S3.png)
+* ![Francisco](Francisco.png)
+* ![Luísa](Luísa.png)
+* ![Francisco e Luísa](Francisco_e_Luísa.png)
+
 * ![Entrada da Clínica](entrada-clinica.jpg)
 * ![Dra Sandra](sandra.png)
 * ![Francisco](francisco.png)
