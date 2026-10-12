@@ -9,3 +9,4 @@
 * ![Francisco e Luísa](Francisco_e_Luísa.png)
 * ![Caixa de diálogo](Caixa_de_Diálogo.png)
 * ![Botão de próximo](Botão_de_Próximo.png)
+* ![Caixa de Opção](Caixa_de_Opção.png)
