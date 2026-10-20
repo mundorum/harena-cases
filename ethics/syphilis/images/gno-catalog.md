@@ -11,3 +11,5 @@
 * ![Botão de próximo](Botão_de_Próximo.png)
 * ![Botão de anterior](Botão_de_Anterior.png)
 * ![Caixa de Opção](Caixa_de_Opção.png)
+* ![Enfermeira](Enfermeira.png)
+* ![Enfermeira Questiona](Enfermeira_Questiona.png)
