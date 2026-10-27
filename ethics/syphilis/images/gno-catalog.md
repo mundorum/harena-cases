@@ -14,3 +14,5 @@
 * ![Enfermeira](Enfermeira.png)
 * ![Enfermeira Questiona](Enfermeira_Questiona.png)
 * ![Teste](Teste.png)
+* ![UBS](UBS.png)
+* ![Sala de espera]('Sala_de_Espera.png')
