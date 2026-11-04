@@ -13,5 +13,5 @@
 * ![Caixa de Opção](Caixa_de_Opção.svg)
 * ![Enfermeira](Enfermeira.png)
 * ![Enfermeira Questiona](Enfermeira_Questiona.png)
-* ![Teste](Teste.png)
+* ![Teste](Teste.svg)
 * ![UBS](UBS.png)
