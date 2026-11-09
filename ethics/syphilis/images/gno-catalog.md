@@ -29,4 +29,7 @@
 * ![Luísa normal de costas](luisa_normal_de_costas.svg)
 * ![Luísa feliz de lado](luisa_feliz_de_lado.svg)
 * ![Luísa feliz de frente](luisa_feliz_de_frente.svg)
+* ![Luísa normal falando](luisa_normal_falando.svg)
+* ![Luísa preocupada](luisa_preocupada.svg)
+* ![Luísa preocupada falando](luisa_preocupada_falando.svg)
 * ![Francisco e Luísa](Francisco_e_Luísa.png)
