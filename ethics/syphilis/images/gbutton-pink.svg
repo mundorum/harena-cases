@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.283615mm"
+   height="45.283615mm"
+   viewBox="0 0 45.283615 45.283615"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="gbutton-pink.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71535494"
+     inkscape:cx="115.32736"
+     inkscape:cy="144.68342"
+     inkscape:window-width="1853"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <radialGradient
+       id="radialGradient4461"
+       gradientUnits="userSpaceOnUse"
+       cy="800.02002"
+       cx="352.26999"
+       gradientTransform="matrix(1.9787,-0.02922,0.018174,1.2307,-364.42,-157.61)"
+       r="273.35999"
+       inkscape:collect="always">
+      <stop
+         id="stop3943-6-3"
+         style="stop-color:#f8c8f5"
+         offset="0" />
+      <stop
+         id="stop3945-5-6"
+         style="stop-color:#ff00dd"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4431"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       x1="394.29001"
+       y1="393.79001"
+       x2="394.29001"
+       y2="670.92999" />
+    <linearGradient
+       id="linearGradient4431"
+       y2="670.92999"
+       gradientUnits="userSpaceOnUse"
+       x2="394.29001"
+       y1="393.79001"
+       x1="394.29001"
+       inkscape:collect="always">
+      <stop
+         id="stop3935"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop3937"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.34791,-110.06667)">
+    <g
+       id="g4368"
+       transform="matrix(0.08134085,0,0,0.08134085,-28.927082,35.069643)">
+      <circle
+         id="path3161-9-7"
+         style="fill:url(#radialGradient4461);stroke:#ff00cc;stroke-width:11"
+         transform="translate(1192.3,592.29)"
+         cx="355.71429"
+         cy="608.07648"
+         r="272.85715" />
+      <ellipse
+         id="path3163-3-3"
+         style="opacity:0.9;fill:url(#linearGradient9)"
+         transform="matrix(1.2492,0,0,1.1188,1067.9,515.6)"
+         cx="384.28571"
+         cy="525.2193"
+         rx="164.28572"
+         ry="144.28572" />
+    </g>
+  </g>
+</svg>
