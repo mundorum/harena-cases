@@ -9,6 +9,15 @@
 * ![Botão de próximo](Botão_de_Próximo.svg)
 * ![Botão de anterior](Botão_de_Anterior.svg)
 * ![Caixa de Opção](Caixa_de_Opção.svg)
+* ![Glossy Button Dark Blue](gbutton_blue_dark.svg)
+* ![Glossy Button Blue](gbutton_blue.svg)
+* ![Glossy Button Green](gbutton_green.svg)
+* ![Glossy Button Green/Yellow](gbutton_green_yellow.svg)
+* ![Glossy Button Orange](gbutton_orange.svg)
+* ![Glossy Button Pink](gbutton_pink.svg)
+* ![Glossy Button Purple](gbutton_purple.svg)
+* ![Glossy Button Red](gbutton_red.svg)
+* ![Glossy Button Yellow](gbutton_yellow.svg)
 
 <!-- Objetos -->
 * ![Mesa](mesa.svg)
@@ -18,6 +27,7 @@
 * ![Cadeira](cadeira.svg)
 * ![Porta aberta](porta_aberta.svg)
 * ![Porta fechada](porta_fechada.svg)
+* ![Exame Ampliado](exame_ampliado.png)
 
 <!-- Personagens -->
 * ![Enfermeira](Enfermeira.png)
@@ -33,13 +43,3 @@
 * ![Luísa preocupada](luisa_preocupada.svg)
 * ![Luísa preocupada falando](luisa_preocupada_falando.svg)
 * ![Francisco e Luísa](Francisco_e_Luísa.png)
-* ![Glossy Button Dark Blue](gbutton-blue-dark.svg)
-* ![Glossy Button Blue](gbutton-blue.svg)
-* ![Glossy Button Green](gbutton-green.svg)
-* ![Glossy Button Green/Yellow](gbutton-green-yellow.svg)
-* ![Glossy Button Orange](gbutton-orange.svg)
-* ![Glossy Button Pink](gbutton-pink.svg)
-* ![Glossy Button Purple](gbutton-purple.svg)
-* ![Glossy Button Red](gbutton-red.svg)
-* ![Glossy Button Yellow](gbutton-yellow.svg)
-* ![Hospital Exam](hospital-exam.png)
