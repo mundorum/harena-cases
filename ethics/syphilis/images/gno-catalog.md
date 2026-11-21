@@ -18,6 +18,10 @@
 * ![Glossy Button Purple](gbutton_purple.svg)
 * ![Glossy Button Red](gbutton_red.svg)
 * ![Glossy Button Yellow](gbutton_yellow.svg)
+* ![Option A](option_a.svg)
+* ![Option B](option_b.svg)
+* ![Option C](option_c.svg)
+* ![Option D](option_d.svg)
 
 <!-- Objetos -->
 * ![Mesa](mesa.svg)
